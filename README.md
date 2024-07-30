@@ -6,6 +6,9 @@
 - Inertia JS
 - VUE JS
 
+## ERD
+![image](https://github.com/user-attachments/assets/3c264311-e436-4d48-bcfc-e8f8ef6ffc5f)
+
 ## Instalasi
 
 Berikut adalah langkah-langkah untuk menginstal dan menjalankan proyek ini di mesin lokal Anda.

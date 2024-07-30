@@ -1,4 +1,4 @@
-## Technical Test FUllstack Developer
+## Technical Test Fullstack Developer
 
 ### Ahmad Gozali
 
